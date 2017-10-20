@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.4">
+<file name="/home/pefernan/development/pefernan/kie-wb-playground/itorders/src/main/java/org/jbpm/demo/itorders/services/ITOrderService.java">
+</file>
+<file name="/home/pefernan/development/pefernan/kie-wb-playground/itorders/src/main/java/org/jbpm/demo/itorders/Survey.java">
+</file>
+</checkstyle>
